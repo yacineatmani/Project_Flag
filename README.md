@@ -1,8 +1,34 @@
-# React + Vite
+# Projet Flags
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Ce projet est un site web qui affiche des informations sur les pays du monde, y compris leurs drapeaux, statistiques et capitales. Il permet aux utilisateurs de rechercher des pays et de voir des détails spécifiques sur chaque pays.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fonctionnalités
+
+- Affichage des drapeaux de tous les pays
+- Recherche de pays par nom
+- Affichage des informations détaillées sur chaque pays, y compris :
+  - Drapeau
+  - Nom
+  - Capitale
+  - Population
+  - Région
+  - Sous-région
+  - Langues
+  - Monnaie
+
+## Technologies Utilisées
+
+- React
+- React Router
+- Tailwind CSS
+- Vite
+- API REST des pays
+
+## Installation
+
+1. Clonez le dépôt :
+
+   ```sh
+   git clone https://github.com/votre-utilisateur/projet-flags.git
