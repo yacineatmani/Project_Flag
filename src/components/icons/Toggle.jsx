@@ -1,3 +1,4 @@
+// Composant pour basculer entre les modes clair et sombre
 const Toggle = ({ dark }) => {
   return (
     <>
@@ -10,6 +11,7 @@ const Toggle = ({ dark }) => {
           stroke="currentColor"
           className="size-3"
         >
+          {/* Chemin de l'icône pour le mode sombre */}
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -25,6 +27,7 @@ const Toggle = ({ dark }) => {
           stroke="currentColor"
           className="size-4"
         >
+          {/* Chemin de l'icône pour le mode clair */}
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
