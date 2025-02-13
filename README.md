@@ -48,4 +48,9 @@ Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 Auteurs
-Ce projet a été réalisé par Yacine et Kubilay.   
+Ce projet a été réalisé par
+
+``` sh
+Yacine et Kubilay
+
+```      
