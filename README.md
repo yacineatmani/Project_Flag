@@ -38,10 +38,10 @@ Ce projet est un site web qui affiche des informations sur les pays du monde, y 
 ## Captures d'écran
 
 - **Mode Sombre** :  
-  ![Mode Sombre](public/Darkmode.png)
+  ![Mode Sombre](public/dark.png)
 
 - **Mode Clair** :  
-  ![Mode Clair](public/lightmode.png)
+  ![Mode Clair](public/light.png)
 
 
 ## Licence
