@@ -37,11 +37,11 @@ Ce projet est un site web qui affiche des informations sur les pays du monde, y 
    
 Captures d'écran
 Mode Sombre
-`path/to/dark-mode-screenshot.png` 
+`public/Darkmode.png` 
 Mode Sombre
 
 Mode Clair
-`path/to/light-mode-screenshot.png`
+`public/lightmode.png`
 Mode Clair
 
 Licence
