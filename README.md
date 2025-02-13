@@ -32,3 +32,20 @@ Ce projet est un site web qui affiche des informations sur les pays du monde, y 
 
    ```sh
    git clone https://github.com/votre-utilisateur/projet-flags.git
+   
+   ```
+   
+Captures d'écran
+Mode Sombre
+`path/to/dark-mode-screenshot.png` 
+Mode Sombre
+
+Mode Clair
+`path/to/light-mode-screenshot.png`
+Mode Clair
+
+Licence
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+Auteurs
+Ce projet a été réalisé par Yacine et Kubilay.   
