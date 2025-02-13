@@ -14,7 +14,7 @@ const Header = () => {
     }
   };
   return (
-    <header className="shadow-md px-3 py-4 dark:bg-[#2b3945]">
+    <header className="shadow-md px-3 py-4 dark:bg-[#2b3945] bg-[#e9edc9]">
       <div className="flex items-center justify-between max-w-[1440px] w-11/12 mx-auto">
         <h1 className="font-bold sm:text-lg text-base">Where in the world?</h1>
 

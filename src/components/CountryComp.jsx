@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const CountryComp = ({ country, AllCountries }) => {
   return (
-    <div className="flex flex-col md:flex-row gap-6 w-full my-8">
+    <div className="bg-[#e9edc9] p-5 flex flex-col md:flex-row gap-6 w-full my-8 dark:bg-[#2b3945] rounded-lg">
       <div className="lg:w-[85%] flex items-center lg:items-stretch w-full">
         <img
           src={country.flag}
