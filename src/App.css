@@ -6,3 +6,8 @@ body {
     object-fit: contain;
     background-size:cover;
 }
+
+/* body .dark{
+    background-image: url(../public/carte-sombre.jpg);
+
+} */

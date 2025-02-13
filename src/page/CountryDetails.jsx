@@ -16,7 +16,7 @@ const CountryDetails = () => {
     setLoading(false);
   }, [id]);
   return (
-    <div className="dark:bg-[#202c37] h-full pb-6">
+    <div className="h-full pb-6 dark:bg-[url(/public/carte-sombre.jpg)] bg-center">
       <div className="max-w-[1440px] w-11/12 mx-auto pt-10 min-h-screen">
         <div className="mb-6 border inline-block py-1 shadow-md bg-gray-50 dark:bg-[#2b3945] dark:border-none cursor-pointer">
           <Link className="text-sm font-medium px-4 rounded-sm" to={"/"}>

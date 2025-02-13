@@ -40,7 +40,7 @@ const Main = () => {
   }, [term, continent]);
 
   return (
-    <main className=" font dark:bg-[#292c37] h-[100%] w-screen">
+    <main className=" font dark:bg-[url(/public/carte-sombre.jpg)] bg-center h-[100%] w-screen">
       <div className="max-w-[1440px] mx-auto w-11/12 pb-12">
         <div className="flex md:items-center flex-col md:flex-row justify-between gap-10 py-10">
           <div className="dark:bg-[#2b3945] rounded text-[14px] px-6 py-1 lg:w-[30%] text-[#858585] dark:text-white    shadow-slate-300 dark:shadow-slate-800 flex items-center ">
