@@ -35,23 +35,22 @@ Ce projet est un site web qui affiche des informations sur les pays du monde, y 
    
    ```
    
-Captures d'écran
-Mode Sombre
-`public/Darkmode.png` 
-Mode Sombre
+## Captures d'écran
 
-Mode Clair
-`public/lightmode.png`
-Mode Clair
+- **Mode Sombre** :  
+  ![Mode Sombre](public/Darkmode.png)
 
-Licence
+- **Mode Clair** :  
+  ![Mode Clair](public/lightmode.png)
+
+
+## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
-Auteurs
+## Auteurs
 Ce projet a été réalisé par
 
 ``` sh
 Yacine et Kubilay
 
-``` 
-merci     
+```
