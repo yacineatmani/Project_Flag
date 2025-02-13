@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 // Composant pour afficher les informations d'un pays
 const CountryComp = ({ country, AllCountries }) => {
   return (
-    <div className="flex flex-col md:flex-row gap-6 w-full my-8">
+    <div className="flex flex-col md:flex-row gap-6 w-full my-8 bg-[#fefae0] p-5">
       {/* Section pour afficher le drapeau du pays */}
       <div className="lg:w-[85%] flex items-center lg:items-stretch w-full">
         <img
