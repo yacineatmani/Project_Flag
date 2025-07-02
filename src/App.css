@@ -2,12 +2,12 @@
     background-color: white !important;
 }
 body {
-    background-image: url(../public/carte-monde.jpeg);
+    background-image: url('./public/carte-monde.jpeg');
     object-fit: contain;
     background-size:cover;
 }
 
 /* body .dark{
-    background-image: url(../public/carte-sombre.jpg);
+    background-image: url('./public/carte-sombre.jpg');
 
 } */

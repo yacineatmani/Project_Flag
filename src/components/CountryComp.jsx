@@ -7,7 +7,7 @@ const CountryComp = ({ country, AllCountries }) => {
       {/* Section pour afficher le drapeau du pays */}
       <div className="lg:w-[85%] flex items-center lg:items-stretch w-full">
         <img
-          src={country.flag}
+          src={country.flags?.png || country.flags?.svg}
           alt=""
           className="sm:w-[500px] lg:w-[580px] w-full"
         />

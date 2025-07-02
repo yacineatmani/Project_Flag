@@ -7,7 +7,7 @@ const CountryBox = ({ country }) => {
       <div className='dark:bg-[#2b3945] w-[220px] lg:w-[250px] shadow-md rounded-sm bg-[#fefae0]'>
         {/* Section pour afficher le drapeau du pays */}
         <div className='w-full lg:h-[150px] overflow-hidden object-contain'>
-          <img src={country.flag} alt="img" className='h-[150px] w-full object-cover' />
+          <img src={country.flags?.png || country.flags?.svg} alt="img" className='h-[150px] w-full object-cover' />
         </div>
         {/* Section pour afficher les informations du pays */}
         <div className='p-3 px-6 my-2 mb-4 lg:mb-6'>
